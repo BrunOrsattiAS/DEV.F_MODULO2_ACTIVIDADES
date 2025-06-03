@@ -1,0 +1,30 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:0;
+    padding: 0;
+}
+
+h1{
+    color:gold;
+    font-weight: bolder;
+    text-shadow: #fc0 1px 0 10px;
+}
+
+h2 {
+    color:red;
+}
+
+a{
+    color: blue;
+    font-weight: bolder;
+}
+
+a:hover{
+    color:purple;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+img:hover{
+    scale: 1.05;
+}
