@@ -25,6 +25,6 @@ a:hover{
     font-size: larger;
 }
 
-img:hover{
+img:not(.titulo):hover{
     scale: 1.05;
 }
